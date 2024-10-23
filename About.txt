@@ -1,0 +1,1 @@
+This project is based on Selenium a library that is used to perform web scrapping by web searching and accessing, by using this library and this process a lot of time is saved and the work is increased by 100% when coming to efficiency 
